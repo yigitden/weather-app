@@ -1,3 +1,28 @@
+# Weather APP
+
+Live Demo : https://yigitden.github.io/weather-app/
+
+It's created with React. I use Open Weather Map Api. You can see it from https://openweathermap.org/
+
+You can see it all cities weather status of Turkey. Set default city "Istanbul" in app.
+
+And then you can select any city in Turkey.
+
+You can see that information about selected city;
+
+Temprature
+
+Max - Min Temprature
+
+Humidity
+
+Feels Like Temprature
+
+City Name and Weather Status
+
+and Weather status icon
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

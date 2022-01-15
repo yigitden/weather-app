@@ -1,5 +1,5 @@
 # Weather APP
-
+![Weather app](./public/weather.png)
 Live Demo : https://yigitden.github.io/weather-app/
 
 It's created with React. I use Open Weather Map Api. You can see it from https://openweathermap.org/
